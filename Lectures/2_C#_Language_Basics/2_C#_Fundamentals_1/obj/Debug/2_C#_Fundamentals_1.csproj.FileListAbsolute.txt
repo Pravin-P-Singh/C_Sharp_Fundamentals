@@ -1,0 +1,7 @@
+C:\C_Sharp_Fundamentals\Lectures\2_C#_Language_Basics\2_C#_Fundamentals_1\bin\Debug\2_C#_Fundamentals_1.exe.config
+C:\C_Sharp_Fundamentals\Lectures\2_C#_Language_Basics\2_C#_Fundamentals_1\bin\Debug\2_C#_Fundamentals_1.exe
+C:\C_Sharp_Fundamentals\Lectures\2_C#_Language_Basics\2_C#_Fundamentals_1\bin\Debug\2_C#_Fundamentals_1.pdb
+C:\C_Sharp_Fundamentals\Lectures\2_C#_Language_Basics\2_C#_Fundamentals_1\obj\Debug\2_C#_Fundamentals_1.csproj.AssemblyReference.cache
+C:\C_Sharp_Fundamentals\Lectures\2_C#_Language_Basics\2_C#_Fundamentals_1\obj\Debug\2_C#_Fundamentals_1.csproj.CoreCompileInputs.cache
+C:\C_Sharp_Fundamentals\Lectures\2_C#_Language_Basics\2_C#_Fundamentals_1\obj\Debug\2_C#_Fundamentals_1.exe
+C:\C_Sharp_Fundamentals\Lectures\2_C#_Language_Basics\2_C#_Fundamentals_1\obj\Debug\2_C#_Fundamentals_1.pdb
